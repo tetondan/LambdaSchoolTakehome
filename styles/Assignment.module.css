@@ -1,0 +1,19 @@
+.assignment {
+  border: 1px solid lightgrey;
+  margin: 15px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.scoreContainer {
+  display: grid;
+  grid-template-columns: 50% 40% 10%;
+}
+
+.passed {
+  color: green;
+}
+
+.failed {
+  color: red;
+}
